@@ -22,7 +22,7 @@
     transition: 1s;
 }
 .container .pad .square:hover{
-    background-color: red;
+    background-color: greenyellow;
 }
 @media screen and (width<1200px) {
     .container{
